@@ -5,4 +5,6 @@ Nulla hendrerit orci elit, sit amet molestie lacus lacinia quis.
 Sed pellentesque lectus ultrices, auctor est sed, maximus nisl.
 Ut elit turpis, fermentum non urna sed, feugiat cursus velit.
 
+Prueba 2 taller git
+
 # ⚠️⚠️ Este es el archivo de **A** ⚠️⚠️
